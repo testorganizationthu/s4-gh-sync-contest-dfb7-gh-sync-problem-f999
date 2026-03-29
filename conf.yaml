@@ -1,6 +1,6 @@
 folder: problem
 samples:
-    - cases: '[1..1]'
+    - cases: '[1..2]'
 title:
-    en: GH Sync Problem f999
+    en: Updated GH Sync Problem
 version: 2
